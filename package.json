@@ -1,0 +1,24 @@
+{
+  "name": "get-redis-client",
+  "version": "1.0.0",
+  "description": "Get Redis Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitcoin-api/get-redis-client.git"
+  },
+  "keywords": [
+    "get",
+    "redis",
+    "client"
+  ],
+  "author": "Michael Stecky-Efantis",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/bitcoin-api/get-redis-client/issues"
+  },
+  "homepage": "https://github.com/bitcoin-api/get-redis-client#readme"
+}
