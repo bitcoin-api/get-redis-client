@@ -1,5 +1,7 @@
 # get-redis-client
 
+[![npm version](https://badge.fury.io/js/get-redis-client.svg)](https://badge.fury.io/js/get-redis-client)
+
 Get Redis Client
 
 
