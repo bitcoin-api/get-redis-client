@@ -10,9 +10,14 @@ Get Redis Client
 Redis helper function to get Redis client. Useful in combination with [do-redis-request](https://github.com/bitcoin-api/do-redis-request).
 
 
-## Set Up
+## Installation
+```
+npm install get-redis-client --save
+```
 
-`process.env.REDIS_URL` needs to be set to your Redis URL
+
+## Set Up
+Your Redis URL can be set using the environment variable `process.env.REDIS_URL`. The default Redis URL is `127.0.0.1:6379`.
 
 
 ## Example
