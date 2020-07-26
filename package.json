@@ -23,5 +23,15 @@
   "homepage": "https://github.com/bitcoin-api/get-redis-client#readme",
   "dependencies": {
     "redis": "^3.0.2"
-  }
+  },
+  "funding": [
+    {
+      "type": "github",
+      "url": "https://github.com/sponsors/bitcoin-api"
+    },
+    {
+      "type": "patreon",
+      "url": "https://www.patreon.com/bitcoinapi"
+    }
+  ]
 }
